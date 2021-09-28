@@ -2,32 +2,15 @@
 
 You can visit the [Holo Taco website](https://www.holotaco.com/) for more information and to purchase the nail polish.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Holo Taco was created by Simply Nailogical(YouTuber). It was published on July 2019.
 
 ![logo](https://cdn.shopify.com/s/files/1/0050/3001/9162/t/2/assets/zendesk-avatar_200x.jpg?v=8375691822647145024 "Holo Taco Logo")
-### Markdown
+### Collections
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
