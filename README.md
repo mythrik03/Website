@@ -7,7 +7,7 @@ Holo Taco was created by Simply Nailogical(YouTuber). It was published on July 2
 ![logo](https://cdn.shopify.com/s/files/1/0050/3001/9162/t/2/assets/zendesk-avatar_200x.jpg?v=8375691822647145024 "Holo Taco Logo")
 ### Collections
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Since its creation, there have been # collections of nail polish(and counting!). These are the collection names: 
 
 
 
