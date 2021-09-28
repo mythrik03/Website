@@ -4,7 +4,7 @@ You can visit the [Holo Taco website](https://www.holotaco.com/) for more inform
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![alttext](https://cdn.shopify.com/s/files/1/0050/3001/9162/t/2/assets/zendesk-avatar_200x.jpg?v=8375691822647145024 "Holo Taco Logo"
+![logo](https://cdn.shopify.com/s/files/1/0050/3001/9162/t/2/assets/zendesk-avatar_200x.jpg?v=8375691822647145024 "Holo Taco Logo")
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
