@@ -1,6 +1,6 @@
 ## About Holo Taco
 
-You can visit the [Holo Taco website](https://github.com/mythrik03/Website/edit/main/README.md) for more information and to purchase the nail polish.
+You can visit the [Holo Taco website](https://www.holotaco.com/) for more information and to purchase the nail polish.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
