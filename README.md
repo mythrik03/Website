@@ -1,7 +1,7 @@
 ## Holo Taco: A Customer's Perspective
-
 You can visit the [Holo Taco website](https://www.holotaco.com/) for more information and to purchase the nail polish.
 
+### About Holo Taco
 **Holo Taco** was created by Simply Nailogical(YouTuber). It was released on July 2019. Holo stands for holographic and taco is a reference to a running joke on her channel where top coats are referred to as "tacos". 
 
 
