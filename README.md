@@ -1,15 +1,15 @@
-## About Holo Taco
+## About Holo Taco: A Customer's Perspective
 
 You can visit the [Holo Taco website](https://www.holotaco.com/) for more information and to purchase the nail polish.
 
-**Holo Taco** was created by Simply Nailogical(YouTuber). It was released on July 2019. Holo stands for holographic and taco is a reference to a running joke on her channel where top coats are referred to as "tacos".
+**Holo Taco** was created by Simply Nailogical(YouTuber). It was released on July 2019. Holo stands for holographic and taco is a reference to a running joke on her channel where top coats are referred to as "tacos". 
 
 
 ![logo](https://cdn.shopify.com/s/files/1/0050/3001/9162/t/2/assets/zendesk-avatar_200x.jpg?v=8375691822647145024 "Holo Taco Logo")
 
 ### Collections
 
-Since its creation, there have been 12 collections of nail polish(and counting!). These are the collection names: Tea Cremes, Sweet Cremes, Tropic Like Its Hot, Unicorns Just Wanna Have Sun, Electric Holos, For Art's Sake, Pastel Rainbow, Unicorn Dream, The Rainbow, Unicorn Bundle, Frosted Metals, and Multichrome. Holo Taco also sells nail care items and nail basics. These include nail files, base coats, and top coats.
+Since its creation, there have been 12 collections of nail polish(and counting!). These are the collection names: Tea Cremes, Sweet Cremes, Tropic Like Its Hot, Unicorns Just Wanna Have Sun, Electric Holos, For Art's Sake, Pastel Rainbow, Unicorn Dream, The Rainbow, Unicorn Bundle, Frosted Metals, and Multichrome. Holo Taco also sells nail care items and nail polish basics. These include nail files, base coats, and top coats.
 
 
 #### My Favorite 
