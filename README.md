@@ -9,7 +9,7 @@ You can visit the [Holo Taco website](https://www.holotaco.com/) for more inform
 
 ### Collections
 
-Since its creation, there have been 12 collections of nail polish(and counting!). These are the collection names: Tea Cremes, Sweet Cremes, Tropic Like Its Hot, Unicorns Just Wanna Have Sun, Electric Holos, For Art's Sake, Pastel Rainbow, Unicorn Dream, The Rainbow, Unicorn Bundle, Frosted Metals, and Multichrome. 
+Since its creation, there have been 12 collections of nail polish(and counting!). These are the collection names: Tea Cremes, Sweet Cremes, Tropic Like Its Hot, Unicorns Just Wanna Have Sun, Electric Holos, For Art's Sake, Pastel Rainbow, Unicorn Dream, The Rainbow, Unicorn Bundle, Frosted Metals, and Multichrome. Holo Taco also sells nail care items and nail basics. These include nail files, base coats, and top coats.
 
 
 #### My Favorite 
