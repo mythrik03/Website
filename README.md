@@ -18,5 +18,5 @@ My personal favorite released Holo Taco nail polish is **"Purple with Envy"** fr
 
 [![favorite](https://cdn.shopify.com/s/files/1/0050/3001/9162/products/holo-taco-multichrome-purple-with-envy-2.jpg?v=1600992003 "Purple with Envy")](https://www.holotaco.com/products/purple-with-envy?_pos=5&_sid=9b2989733&_ss=r) 
 
-### Thank You!
+### Thank You! :)
 >Just add a Holo Taco! -Simply Nailogical 
