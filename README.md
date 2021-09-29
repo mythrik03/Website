@@ -1,4 +1,4 @@
-## About Holo Taco: A Customer's Perspective
+## Holo Taco: A Customer's Perspective
 
 You can visit the [Holo Taco website](https://www.holotaco.com/) for more information and to purchase the nail polish.
 
