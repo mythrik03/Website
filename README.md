@@ -14,7 +14,7 @@ Since its creation, there have been 12 collections of nail polish(and counting!)
 
 #### My Favorite 
 
-My personal favorite released Holo Taco nail polish is **"Purple with Envy"** from the Multichrome collection. Comparatively to the holos, it is easy to remove and still provides an entrancing factor. The colors shift from "royal purple and transforms through shades of indigo, blue and magenta, reaching as far as gold." It pairs well with a scattered holo topper or a unicorn flakie. I prefer to wear it with a glossy top coat because a matte top coat removes most of the shifting. 
+My personal favorite released Holo Taco nail polish is **"Purple with Envy"** from the Multichrome collection. Comparatively to the holos, it is easy to remove and still provides an eyecatching factor. The colors shift from "royal purple and transforms through shades of indigo, blue and magenta, reaching as far as gold." It pairs well with a scattered holo topper or a unicorn flakie. I prefer to wear it with a glossy top coat because a matte top coat removes most of the shifting. 
 
 [![favorite](https://cdn.shopify.com/s/files/1/0050/3001/9162/products/holo-taco-multichrome-purple-with-envy-2.jpg?v=1600992003 "Purple with Envy")](https://www.holotaco.com/products/purple-with-envy?_pos=5&_sid=9b2989733&_ss=r) 
 
